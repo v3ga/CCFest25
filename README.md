@@ -12,5 +12,3 @@ The sketches make use of the custom library [bezier.js](./bezier.js) aimed at ma
 <img src="images/CCFest25—bezier-curves.jpg" width="400px" /><img src="images/CCFest25-multiple-glyphs.jpg" width="400px" />
 <img src="images/CCFest25-text-composition-01.jpg" width="400px" /><img src="images/CCFest25-text-composition-02.jpg" width="400px" />
 
-## Documentation
-
